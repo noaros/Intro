@@ -1,4 +1,4 @@
-# Welcome [Me](https://www.linkedin.com/in/noahrosser/)
+# Welcome ([LinkedIn](https://www.linkedin.com/in/noahrosser/))
 
 Just getting started here, this will mostly document my learning all things microcontroller. Some weird things may show up as well. 😄
 
