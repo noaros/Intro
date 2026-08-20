@@ -4,4 +4,4 @@ Just getting started here, this will mostly document my learning all things micr
 
 And thus it begins...
 
-[STM Learn](https://github.com/noaros/Blinky-Printf)
+[Blinky Printf](https://github.com/noaros/Blinky-Printf)
