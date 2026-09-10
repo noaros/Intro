@@ -1,6 +1,6 @@
 # Welcome
 
-Just getting started here, this will mostly document my learning all things microcontroller. Some weird things may show up as well. 😄
+Just getting started here, this will mostly document my learning all things microcontroller. Some weird things may show up as well.
 
 And thus it begins...
 
