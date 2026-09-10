@@ -10,4 +10,5 @@ And thus it begins...
 
 [Arch](https://github.com/noaros/Arch)
 
+[SPI](https://github.com/noaros/SPI)
 
