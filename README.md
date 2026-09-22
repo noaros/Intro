@@ -1,6 +1,6 @@
 # Welcome
 
-Just getting started here, this will mostly document my learning all things microcontroller. Some weird things may show up as well.
+Just getting started here to document various educational projects, especially microcontrollers, Linux, or AI. Some weirder things may show up as well.
 
 And thus it begins...
 
@@ -11,4 +11,6 @@ And thus it begins...
 [Arch](https://github.com/noaros/Arch)
 
 [SPI](https://github.com/noaros/SPI)
+
+[LFS](https://github.com/noaros/LFS)
 
