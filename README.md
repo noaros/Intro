@@ -14,3 +14,7 @@ And thus it begins...
 
 [LFS](https://github.com/noaros/LFS)
 
+[FreeRTOS-Claude](https://github.com/noaros/FreeRTOS-Claude)
+
+[FreeRTOS-Demo](https://github.com/noaros/FreeRTOS-Demo)
+
