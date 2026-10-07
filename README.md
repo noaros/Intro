@@ -22,6 +22,6 @@ And thus it begins...
 
 [DAC-ADC](https://github.com/noaros/DAC-ADC)
 
-[Embedded Course](https://github.com/noaros/Embedded-Course)
+[Embedded-Course](https://github.com/noaros/Embedded-Course)
 
 
