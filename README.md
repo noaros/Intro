@@ -24,5 +24,5 @@ And thus it begins...
 
 [Embedded-Course](https://github.com/noaros/Embedded-Course)
 
-[Secure-Bootloader)](https://github.com/noaros/Secure-Bootloader)
+[Secure-Bootloader)](https://github.com/noaros/Secure-Bootloader
 
