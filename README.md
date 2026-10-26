@@ -6,17 +6,17 @@ And so it begins...
 
 [AI-Agents](https://github.com/noaros/AI-Agents)
 
+[Arch](https://github.com/noaros/Arch)
+
+[LFS](https://github.com/noaros/LFS)
+
 <hr>
 
 [Blinky Printf](https://github.com/noaros/Blinky-Printf)
 
 [I2C](https://github.com/noaros/I2C)
 
-[Arch](https://github.com/noaros/Arch)
-
 [SPI](https://github.com/noaros/SPI)
-
-[LFS](https://github.com/noaros/LFS)
 
 [FreeRTOS-Claude](https://github.com/noaros/FreeRTOS-Claude)
 
