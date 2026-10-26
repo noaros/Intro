@@ -2,7 +2,7 @@
 
 Just getting started here to document various educational projects, especially microcontrollers, Linux, or AI. Some weirder things may show up as well.
 
-And thus it begins...
+And so it begins...
 
 [AI-Agents](https://github.com/noaros/AI-Agents)
 
