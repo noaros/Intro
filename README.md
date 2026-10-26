@@ -4,6 +4,10 @@ Just getting started here to document various educational projects, especially m
 
 And thus it begins...
 
+[AI-Agents](https://github.com/noaros/AI-Agents)
+
+<hr>
+
 [Blinky Printf](https://github.com/noaros/Blinky-Printf)
 
 [I2C](https://github.com/noaros/I2C)
@@ -25,4 +29,7 @@ And thus it begins...
 [Embedded-Course](https://github.com/noaros/Embedded-Course)
 
 [Secure-Bootloader](https://github.com/noaros/Secure-Bootloader)
+
+[Kalman-Filter](https://github.com/noaros/Kalman-Filter)
+
 
