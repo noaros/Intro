@@ -6,6 +6,8 @@ And so it begins...
 
 [AI-Agents](https://github.com/noaros/AI-Agents)
 
+[AI-Demo](https://github.com/noaros/AI-Demo)
+
 [Arch](https://github.com/noaros/Arch)
 
 [LFS](https://github.com/noaros/LFS)
