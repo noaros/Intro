@@ -14,7 +14,7 @@ And so it begins...
 
 <hr>
 
-[Blinky Printf](https://github.com/noaros/Blinky-Printf)
+[Blinky-Printf](https://github.com/noaros/Blinky-Printf)
 
 [I2C](https://github.com/noaros/I2C)
 
@@ -36,6 +36,6 @@ And so it begins...
 
 [MQTT](https://github.com/noaros/MQTT)
 
-[ScopeLogic](https://github.com/noaros/ScopeLogic)
+[Scope-Logic](https://github.com/noaros/Scope-Logic)
 
 
