@@ -36,4 +36,6 @@ And so it begins...
 
 [MQTT](https://github.com/noaros/MQTT)
 
+[ScopeLogic](https://github.com/noaros/ScopeLogic)
+
 
